@@ -1,0 +1,7 @@
+C:\Users\Богдан\source\repos\Shooter_Game\Shooter_Game\bin\Debug\Shooter_Game.exe.config
+C:\Users\Богдан\source\repos\Shooter_Game\Shooter_Game\bin\Debug\Shooter_Game.exe
+C:\Users\Богдан\source\repos\Shooter_Game\Shooter_Game\bin\Debug\Shooter_Game.pdb
+C:\Users\Богдан\source\repos\Shooter_Game\Shooter_Game\obj\Debug\Shooter_Game.csproj.AssemblyReference.cache
+C:\Users\Богдан\source\repos\Shooter_Game\Shooter_Game\obj\Debug\Shooter_Game.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\Shooter_Game\Shooter_Game\obj\Debug\Shooter_Game.exe
+C:\Users\Богдан\source\repos\Shooter_Game\Shooter_Game\obj\Debug\Shooter_Game.pdb
